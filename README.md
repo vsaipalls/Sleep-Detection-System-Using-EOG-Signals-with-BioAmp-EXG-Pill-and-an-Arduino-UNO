@@ -1,0 +1,2 @@
+# Sleep-Detection-System-Using-EOG-Signals-with-BioAmp-EXG-Pill-and-an-Arduino-UNO
+A sleep detection model using a BioAmp EXG Pill (EOG sensor) with an Arduino Uno and speaker module. A 15-blink calibration sets a personalized variance and sleep threshold from the longest pause between blinks. It then tracks time since the last blink to detect sleep, sounding an alarm via the speaker when the user is detected to be asleep.
